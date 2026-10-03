@@ -1,0 +1,29 @@
+[
+    {
+        "identificacion": "0102030405",
+        "nombre": "Isa Paez",
+        "correo": "isap@correo.com",
+        "celular": "0991234567",
+        "usuario": "isa",
+        "contrasena": "hope2",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "0504030201",
+        "nombre": "Sebas Morillo",
+        "correo": "sebasmor@correo.com",
+        "celular": "0987654321",
+        "usuario": "sebas",
+        "contrasena": "hope1",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "2150802035",
+        "nombre": "Martha lucia",
+        "correo": "marhita@.gmail",
+        "celular": "0989294905",
+        "usuario": "martha",
+        "contrasena": "hope4",
+        "rol": "Cliente"
+    }
+]
